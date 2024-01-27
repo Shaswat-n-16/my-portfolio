@@ -1,0 +1,17 @@
+/* Footer.css */
+
+.footer {
+  background-color: #222; /* Dark background color */
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0;
+}
+
+/* Add additional styling as needed */
